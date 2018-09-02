@@ -1,6 +1,6 @@
 #!/usr/bin/dh-exec
 Telegram	=>	/usr/bin/telegram-desktop
-debian/telegram-desktop.desktop	=>	/usr/share/applications/telegram-desktop.desktop
-debian/telegram-desktop.appdata.xml	=>	/usr/share/metainfo/telegram-desktop.appdata.xml
+debian/telegram-desktop.desktop	=>	/usr/share/applications/telegramdesktop.desktop
+debian/telegram-desktop.appdata.xml	=>	/usr/share/metainfo/telegramdesktop.appdata.xml
 debian/telegram-desktop.protocol	=>	/usr/share/kde4/services/tg.protocol
 debian/icons/telegram-desktop.svg	=>	/usr/share/telegram-desktop/icons/telegram-desktop.svg

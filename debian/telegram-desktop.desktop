@@ -3,6 +3,7 @@ Version=1.0
 Name=Telegram Desktop
 Comment=Official desktop version of Telegram messaging app
 Comment[es]=Cliente de mensajería oficial de Telegram
+TryExec=/usr/bin/telegram-desktop
 Exec=telegram-desktop -noupdate %u
 Icon=/usr/share/telegram-desktop/icons/telegram-desktop.svg
 Terminal=false
