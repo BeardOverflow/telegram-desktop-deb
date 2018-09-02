@@ -1,5 +1,5 @@
-telegram (1.3.14-1) unstable; urgency=medium
+telegram-desktop (1.3.14-1) stable; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Upstream binaries - Version 1.3.14 for Linux on amd64
 
  -- José Ángel Pastrana Padilla <japp0005@red.ujaen.es>  Sun, 02 Sep 2018 10:29:52 +0000
