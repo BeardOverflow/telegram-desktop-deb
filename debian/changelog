@@ -1,3 +1,9 @@
+telegram-desktop (1.4.5~b1-1) stable; urgency=medium
+
+  * Upstream binaries - Version 1.4.5 beta for Linux on amd64
+
+ -- José Ángel Pastrana Padilla <japp0005@red.ujaen.es>  Thu, 08 Oct 2018 16:21:00 +0000
+
 telegram-desktop (1.4.3-1) stable; urgency=medium
 
   * Upstream binaries - Version 1.4.3 for Linux on amd64
